@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"Netflix Website",
+        "image":"/images/Netflix.png",
+        "live":"https://krishnanetxwebappp.netlify.app/"
+        
+      },
+    {
+        "id": 1,
+        "name":"Bike Website",
+        "image":"/images/Bike.png",
+        "live":"https://krishnabikewebapp.netlify.app"
+        
+      },
+    {
+        "id": 1,
+        "name":"Travel Website",
+        "image":"/images/Travel.png",
+        "live":"https://krishnatravelwebsite.netlify.app"
+        
+      }
+  
+
+]
+
