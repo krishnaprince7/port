@@ -1,9 +1,16 @@
 [
     {
         "id": 1,
-        "name":"Netflix Website",
+        "name":"Movie Website",
         "image":"/images/Netflix.png",
         "live":"https://krishnanetxwebappp.netlify.app/"
+        
+      },
+     {
+        "id": 1,
+        "name":"Nike Shose",
+        "image":"/images/Nike.png",
+        "live":"https://shosewebapp.vercel.app/"
         
       },
     {
