@@ -24,7 +24,7 @@
      {
         "id": 1,
         "name":"furniture website",
-        "image":"/images/furniture.png",
+        "image":"/images/furniturer.png",
         "live":"https:https://furneture.vercel.app/"
         
       }
